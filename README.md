@@ -7,12 +7,6 @@ This course is designed to teach you how to QUICKLY harness the power of the Lan
 ![LangChain Logo](/static/LangChain_OSS%20Lockup_light.png)
 ![LangGraph Logo](/static/LangGraph_OSS%20Lockup_light.png)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/EdenMarco177?style=social)](https://twitter.com/EdenMarco177)
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
-
-[![udemy](https://img.shields.io/badge/LangChain%20Udemy%20Course%20Coupon%20%2412.99-brightgreen)](https://www.udemy.com/course/langchain/?couponCode=APRIL-2026)
-
-
 
 ## 💡 What You'll Build 
 
